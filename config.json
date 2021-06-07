@@ -1,0 +1,10 @@
+{
+  "token": "Token",
+  "prefix": "?",
+  "guild": "Your Guild ID",
+  "category": "Category ID for Tickets",
+  "roles": ["ModRoleID", "ModRoleID", "ModRoleID", "..."],
+  "activity": "Direct Messages",
+  "type": "WATCHING",
+  "status": "online"
+}
