@@ -1,4 +1,4 @@
-# modmail
+# Modmail Discord Bot
 A Simple ModMail Bot Source Code made using Discord.js. It can be used only in One Guild. If you Want for another Guild, You Have to make another Code<br><br>Support Server - <a href="https://discord.gg/UDZUzKw7aK" target="_blank">Abstract Developers</a>.</p>
 
 ## Instructions
